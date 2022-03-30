@@ -1,0 +1,41 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(8, 0, 0);
+    line-height: 25px;
+    height:35px;
+ 
+   
+}
+li {
+    float: left;
+    padding-top:4px;
+    padding-bottom:6px;
+    padding-right:25px;
+    border-right: 1px solid white;
+}
+li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    display: block;
+    padding-left:17px;
+   
+
+    
+}
+.site{
+    padding-left: 20px;
+    padding-top:20px;
+    font-style: inherit;
+}
+.header{
+    background-color: #d5d6d7;
+    margin-top:-19px;
+}
+ul :hover {
+    background-color: green;
+
+}
+
+
